@@ -1,1 +1,1 @@
-# DirectionsOfRobotBase
+# DirectionsOfRobotBase, the aim of this project is to create an interface that have a directions buttons(left, right, forwared, backwared, stop) to control a robot base movment. this project created by html, css, js, php launguages. Moreover, if the user clicks on one of the buttons the data will be sent and stored in a database and will be shown in the screen.  
